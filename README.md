@@ -1,1 +1,1 @@
-Why is `<script type="module">` always defered? 😭
+Why is `<script type="module">` always deferred? 😭
